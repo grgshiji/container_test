@@ -3,8 +3,8 @@
   "type": "containerized",
   "blockId": "x502C4AknWO3aCzyg2X1_",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/container_test.git",
+    "ssh": "git@github.com:grgshiji/container_test.git",
     "branch": "block_container_test"
   },
   "parentBlockIDs": [],
