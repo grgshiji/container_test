@@ -13,5 +13,7 @@
     "1.0.0"
   ],
   "repoType": "mono",
-  "language": "ruby"
+  "language": "ruby",
+  "dependencies": {},
+  "version": "0.0.2"
 }
